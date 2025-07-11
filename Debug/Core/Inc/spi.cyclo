@@ -1,0 +1,6 @@
+../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:539:22:LL_AHB2_GRP1_EnableClock	1
+../Core/Inc/spi.c:8:6:LCD_GPIOInit	1
+../Core/Inc/spi.c:49:6:LCD_WR_Bus	3
+../Core/Inc/spi.c:75:6:LCD_WR_REG	1
+../Core/Inc/spi.c:87:6:LCD_WR_DATA8	1
+../Core/Inc/spi.c:99:6:LCD_WR_DATA	1

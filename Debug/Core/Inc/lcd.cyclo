@@ -1,0 +1,13 @@
+../Core/Inc/lcd.c:15:6:LCD_ShowChar	8
+../Core/Inc/lcd.c:59:6:LCD_ShowString	5
+../Core/Inc/lcd.c:77:10:mypow	2
+../Core/Inc/lcd.c:98:6:LCD_ShowNum	5
+../Core/Inc/lcd.c:133:6:LCD_ShowFloatNum	3
+../Core/Inc/lcd.c:161:6:LCD_ShowChinese12x12	8
+../Core/Inc/lcd.c:209:6:LCD_ShowChinese16x16	8
+../Core/Inc/lcd.c:258:6:LCD_ShowChinese24x24	8
+../Core/Inc/lcd.c:307:6:LCD_ShowChinese32x32	8
+../Core/Inc/lcd.c:356:6:LCD_ShowChinese	6
+../Core/Inc/lcd.c:385:6:LCD_ShowStr	12
+../Core/Inc/lcd.c:448:6:LCD_StrCenter	1
+../Core/Inc/lcd.c:464:6:LCD_ShowPicture	4
